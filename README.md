@@ -2,7 +2,7 @@
 
 Overview : 
 
-This mobile application is developed for Madippakkam Charitable Trust, designed to facilitate various charitable activities and manage community interactions. This project is a team effort, with my primary contribution being the development of the entire frontend using React Native and Redux.
+This mobile application is developed for Madippakkam Charitable Trust, located in the Tirupur district of Tamil Nadu, India. It is designed to facilitate various charitable activities and manage community interactions. This project is a team effort, with my primary contribution being the development of the entire frontend using React Native and Redux.
 
 Features : 
 
