@@ -23,3 +23,5 @@ Redux: Manages the state of the application, ensuring consistent and predictable
 React Navigation: Implements stack navigation and other navigation features within the app.
 
 ![image](https://github.com/user-attachments/assets/4310d5a8-b691-4bc7-ad18-37ff47a9e858)
+
+![image](https://github.com/user-attachments/assets/157509a4-ee6a-4fb6-8121-ffab24f85c9d)
