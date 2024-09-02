@@ -21,3 +21,5 @@ React Native: Used for building the mobile application for both iOS and Android 
 Redux: Manages the state of the application, ensuring consistent and predictable state management.
 
 React Navigation: Implements stack navigation and other navigation features within the app.
+
+![image](https://github.com/user-attachments/assets/4310d5a8-b691-4bc7-ad18-37ff47a9e858)
